@@ -6,9 +6,7 @@ function RequestFormButton() {
 
   return (
     <div>
-      <button style={buttonStyling}>
-        Click Here!
-      </button>
+    
       <input type="submit" value="Submit" style={buttonStyling}></input>
 
     </div>
